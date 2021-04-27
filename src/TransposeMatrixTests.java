@@ -6,7 +6,7 @@ import java.util.Random;
 
 import org.junit.jupiter.api.Test;
 
-public class TrasposeMatrixTests {
+public class TransposeMatrixTests {
 
 	final private Solution solution = new Solution();
 	Random rnd = new Random();
